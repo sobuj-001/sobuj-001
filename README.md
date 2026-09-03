@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./Banner.png" alt="Sobuj Chandra Banner" width="100%">
+</p>
+
 ## Hi 👋 ,I am Sobuj Chandra Barmon
 
 
